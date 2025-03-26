@@ -1,14 +1,16 @@
 React Calculator
 A simple and interactive calculator built using React.js.
 
+
 Features
 ✔ Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 ✔ Responsive and user-friendly UI.
 ✔ Real-time calculations.
 
+
 Installation
 1. Clone the Repository
-git clone <your-repo-url>
+git clone https://github.com/Sumit-Kushwah-786/Basic-Calculator-App.git
 cd Basic-Calculator-App
 
 2. Install Dependencies
