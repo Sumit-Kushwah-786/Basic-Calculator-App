@@ -17,6 +17,7 @@ Installation
 1. Clone the Repository
    
 git clone https://github.com/Sumit-Kushwah-786/Basic-Calculator-App.git
+
 cd Basic-Calculator-App
 
 2. Install Dependencies
